@@ -28,8 +28,7 @@ long_line_behaviour=1
 long_line_column=80
 
 [files]
-current_page=0
-FILE_NAME_0=363;Python;0;EUTF-8;0;1;1;%2Fhome%2Fterminator%2FYandex%2Fweb-server%2Fmain5.py;0;4
+current_page=-1
 
 [prjorg]
 source_patterns=*.c;*.C;*.cpp;*.cxx;*.c++;*.cc;*.m;
